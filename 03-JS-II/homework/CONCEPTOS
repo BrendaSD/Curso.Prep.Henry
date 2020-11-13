@@ -1,0 +1,6 @@
+
+* for: Es un bucle complejo y son estructuras lógicas que te permiten realizar una y otra vez una acción, siempre y cuando se cumpla una condición booleana.
+
+
+* && ||, ! : Son operadores logicos, se usan para evaluar expresiones.
+  El operador “&&” corresponde al booleano AND, lo que en español vendría siendo “y”; el operador “||” corresponde al booleano OR, lo que sería equivalente a “o” y el operador "!" corresponde al booleano NOT, lo que en español vendría siendo "no"
